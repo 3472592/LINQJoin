@@ -1,0 +1,15 @@
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\JimmyJoin\bin\Debug\net6.0\JimmyJoin.exe
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\JimmyJoin\bin\Debug\net6.0\JimmyJoin.deps.json
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\JimmyJoin\bin\Debug\net6.0\JimmyJoin.runtimeconfig.json
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\JimmyJoin\bin\Debug\net6.0\JimmyJoin.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\JimmyJoin\bin\Debug\net6.0\JimmyJoin.pdb
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\JimmyJoin\obj\Debug\net6.0\JimmyJoin.csproj.AssemblyReference.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\JimmyJoin\obj\Debug\net6.0\JimmyJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\JimmyJoin\obj\Debug\net6.0\JimmyJoin.AssemblyInfoInputs.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\JimmyJoin\obj\Debug\net6.0\JimmyJoin.AssemblyInfo.cs
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\JimmyJoin\obj\Debug\net6.0\JimmyJoin.csproj.CoreCompileInputs.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\JimmyJoin\obj\Debug\net6.0\JimmyJoin.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\JimmyJoin\obj\Debug\net6.0\refint\JimmyJoin.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\JimmyJoin\obj\Debug\net6.0\JimmyJoin.pdb
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\JimmyJoin\obj\Debug\net6.0\JimmyJoin.genruntimeconfig.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\JimmyJoin\obj\Debug\net6.0\ref\JimmyJoin.dll
